@@ -4,4 +4,4 @@
  2 - Courses Module 
  3 - Student Module 
  4 - Instructor
- Module NOTE: Make sure to set up mySQL database before trying to run the code.
+ Module NOTE: Make sure to set up mySQL database before trying to run the code, FILENAME : coursesmanagementsystem.sql
