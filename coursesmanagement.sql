@@ -89,7 +89,7 @@ INSERT INTO `manageinstructors` (`ID`, `FirstName`, `LastName`, `Gender`, `Phone
 (1, 'Dr.Mohamed', 'Said', 'Male', '01203215468', 'EGP 100000'),
 (2, 'Eng.Ali', 'Zeeneldin', 'Male', '01280745476', 'EGP 50000'),
 (4, 'Amr', 'Mohamed', 'Male', '01200014213', 'EGP 5213'),
-(5, 'Mazen', 'Tarek', 'Male', '01200014400', 'EGP 51212'),
+(5, 'Mazen', 'Tarek', 'Male', '01225021085', 'EGP 51212'),
 (8, 'Farah', 'Mohamed', 'Female', '01242190413', 'EGP 51350');
 
 -- --------------------------------------------------------
@@ -111,9 +111,9 @@ CREATE TABLE `managestudents` (
 --
 
 INSERT INTO `managestudents` (`Student_ID`, `FirstName`, `LastName`, `Gender`, `Phone`) VALUES
-(1, 'Mazen', 'Tarek', 'Male', '19107441'),
-(2, 'Amr', 'Mohamed', 'Male', '19107432'),
-(6, 'Mustafa', 'Magdy', 'Male', '19107809'),
+(1, 'Mazen', 'Tarek', 'Male', '01225021085'),
+(2, 'Amr', 'Mohamed', 'Male', '01200014213'),
+(6, 'Mustafa', 'Magdy', 'Male', '01252314213'),
 (10, 'Farah', 'Mohamed', 'Female', '19105821');
 
 -- --------------------------------------------------------
